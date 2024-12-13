@@ -4,3 +4,4 @@ python-telegram-bot==21.9
 openai
 python-dotenv
 Pillow
+pandas
